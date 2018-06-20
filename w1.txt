@@ -1,1 +1,2 @@
-chgnage from master to w1.txt
+chgnage from master to w1.txt and deleted the change from feature-b
+
