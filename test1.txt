@@ -1,4 +1,1 @@
 sample aaaaa
-bbbbbbbbb
-cccccccc
-ddddddd
