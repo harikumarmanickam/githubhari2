@@ -1,3 +1,1 @@
-hi 1
-hi 2
-hi 3
+chgnage from master to w1.txt
